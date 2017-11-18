@@ -3713,7 +3713,7 @@
 				}
 
 				#banner .content {
-					padding: 4.0625em 1.5em 4.875em 1.5em;
+					padding: 1.0em 0.5em 1.0em 0.5em;
 				}
 
 					#banner .content header h2 {
@@ -3737,7 +3737,7 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
-				padding-top: 44px !important;
+				padding-top: 24px !important;
 			}
 
 			#titleBar {
@@ -3977,13 +3977,13 @@
 		/* Wrapper */
 
 			.wrapper {
-				padding: 3em 1.25em 1em 1.25em;
+				padding: 1em 1em 1em 1em;
 			}
 
 		/* Banner */
 
 			#banner .content {
-				padding: 3em 1.5625em 5.25em 1.5625em;
+				padding: 1.3em 1.0em, 1.3em 1.0em;
 			}
 
 		/* Footer */
